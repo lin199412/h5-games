@@ -1,0 +1,9 @@
+.boardBox{
+    width: 100%;
+    height: 30px;
+    background: #eee;
+    margin-bottom: 40px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,22 @@
+.headerBox{
+    width: 100%;
+    height: 80px;
+    background: #ccc;
+    position: relative;
+}
+.title{
+    text-align: center;
+    line-height: 80px;
+}
+
+.description{
+    position: absolute;
+    left: 10px;
+    top: 20px;
+}
+
+.sue{
+    position: absolute;
+    left: 10px;
+    top: 50px;
+}

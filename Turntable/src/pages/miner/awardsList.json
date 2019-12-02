@@ -1,0 +1,64 @@
+{
+    "data":[
+        {
+            "id": "1",
+            "title": "1",
+            "width": 50,
+            "height": 50,
+            "background": "#ccc",
+            "background2":"aquamarine",
+            "top": 350,
+            "left": 50,
+            "show": true,
+            "can": false
+        },
+        {
+            "id": "2",
+            "title": "2",
+            "width": 66,
+            "height": 66,
+            "background": "#ccc",
+            "background2":"aquamarine",
+            "top": 380,
+            "left": 130,
+            "show": true,
+            "can": true
+        },
+        {
+            "id": "3",
+            "title": "3",
+            "width": 66,
+            "height": 66,
+            "background": "#ccc",
+            "background2":"aquamarine",
+            "top": 310,
+            "left": 220,
+            "show": true,
+            "can": false
+        },
+        {
+            "id": "4",
+            "title": "4",
+            "width": 50,
+            "height": 50,
+            "background": "#ccc",
+            "background2":"aquamarine",
+            "top": 420,
+            "left": 250,
+            "show": true,
+            "can": true
+        },
+        {
+            "id": "5",
+            "title": "5",
+            "width": 50,
+            "height": 50,
+            "background": "#ccc",
+            "background2":"aquamarine",
+            "top": 270,
+            "left": 130,
+            "show": true,
+            "can": true
+        }
+    ]
+}
